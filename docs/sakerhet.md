@@ -114,4 +114,4 @@ Privata nycklar lagras aldrig i Git.
 ---
 
 # 5. Sammanfattning  
-Systemet använder TLS, certifikatverifiering, API‑nyckel och datavalidering för att uppnå säker kommunikation och åtkomstkontroll. Kvarvarande begränsningar är främst kopplade till utvecklingsmiljö och kan åtgärdas vid en produktionssättning. Lösningen uppfyller kursens krav på säkerhet och är robust mot vanliga nätverks‑ och kommunikationsfel.
+Systemet använder TLS, certifikatverifiering, API‑nyckel och datavalidering för att uppnå säker kommunikation och åtkomstkontroll. Kvarvarande begränsningar är främst kopplade till utvecklingsmiljö och kan åtgärdas vid en produktionssättning.
