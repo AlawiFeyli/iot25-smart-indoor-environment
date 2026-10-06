@@ -1,5 +1,6 @@
 # Smart Indoor Environment – IoT25  
 En säker och integrerad IoT‑lösning för insamling, bearbetning och tillgängliggörande av sensordata.
+GitHub Repo: https://github.com/AlawiFeyli/iot25-smart-indoor-environment
 
 ## Syfte  
 Systemet samlar in temperaturdata från en ESP32‑C6 med fysisk sensor, överför informationen via MQTT, bearbetar den i en serverapplikation och tillgängliggör den genom ett REST‑API. Lösningen är designad för att vara säker, övervakningsbar och robust mot vanliga kommunikationsfel.
